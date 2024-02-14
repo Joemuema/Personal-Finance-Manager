@@ -1,0 +1,17 @@
+C:\Users\Jose\source\repos\Lab 2\Lab 2\bin\Debug\net8.0-windows\Lab 2.exe
+C:\Users\Jose\source\repos\Lab 2\Lab 2\bin\Debug\net8.0-windows\Lab 2.deps.json
+C:\Users\Jose\source\repos\Lab 2\Lab 2\bin\Debug\net8.0-windows\Lab 2.runtimeconfig.json
+C:\Users\Jose\source\repos\Lab 2\Lab 2\bin\Debug\net8.0-windows\Lab 2.dll
+C:\Users\Jose\source\repos\Lab 2\Lab 2\bin\Debug\net8.0-windows\Lab 2.pdb
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab_2.Form1.resources
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab_2.ObjDemo.resources
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.vbproj.GenerateResource.cache
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.AssemblyInfo.vb
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.vbproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.dll
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\refint\Lab 2.dll
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.pdb
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\Lab 2.genruntimeconfig.cache
+C:\Users\Jose\source\repos\Lab 2\Lab 2\obj\Debug\net8.0-windows\ref\Lab 2.dll
