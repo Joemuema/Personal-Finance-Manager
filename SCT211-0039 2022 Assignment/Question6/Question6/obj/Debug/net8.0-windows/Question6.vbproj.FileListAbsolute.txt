@@ -1,0 +1,16 @@
+C:\Users\Jose\source\repos\Question6\Question6\bin\Debug\net8.0-windows\Question6.exe
+C:\Users\Jose\source\repos\Question6\Question6\bin\Debug\net8.0-windows\Question6.deps.json
+C:\Users\Jose\source\repos\Question6\Question6\bin\Debug\net8.0-windows\Question6.runtimeconfig.json
+C:\Users\Jose\source\repos\Question6\Question6\bin\Debug\net8.0-windows\Question6.dll
+C:\Users\Jose\source\repos\Question6\Question6\bin\Debug\net8.0-windows\Question6.pdb
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.Commission.resources
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.vbproj.GenerateResource.cache
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.AssemblyInfo.vb
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.vbproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.dll
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\refint\Question6.dll
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.pdb
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\Question6.genruntimeconfig.cache
+C:\Users\Jose\source\repos\Question6\Question6\obj\Debug\net8.0-windows\ref\Question6.dll

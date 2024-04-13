@@ -1,0 +1,16 @@
+C:\Users\Jose\source\repos\Question4\Question4\bin\Debug\net8.0-windows\Question4.exe
+C:\Users\Jose\source\repos\Question4\Question4\bin\Debug\net8.0-windows\Question4.deps.json
+C:\Users\Jose\source\repos\Question4\Question4\bin\Debug\net8.0-windows\Question4.runtimeconfig.json
+C:\Users\Jose\source\repos\Question4\Question4\bin\Debug\net8.0-windows\Question4.dll
+C:\Users\Jose\source\repos\Question4\Question4\bin\Debug\net8.0-windows\Question4.pdb
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.NextCharacter.resources
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.vbproj.GenerateResource.cache
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.AssemblyInfo.vb
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.vbproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.dll
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\refint\Question4.dll
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.pdb
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\Question4.genruntimeconfig.cache
+C:\Users\Jose\source\repos\Question4\Question4\obj\Debug\net8.0-windows\ref\Question4.dll
